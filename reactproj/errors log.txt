@@ -1,0 +1,13 @@
+log of errors serverbased
+
+1. using data checking for status plz use the response to the status
+
+2. console.log everything to find any error and if you console.log in the frontend then see the it's console and the backend (which is in the vscode terminal itself)
+
+3. check the tutorial properly eachline of it and make corrections like in this case use await while using the bcryptjs hash function
+
+learn all the react hooks 
+1.learn context api in react
+2.what is prop drilling context api useContext
+
+remember when you make the forms plz check for the name of the field 

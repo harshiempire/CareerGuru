@@ -1,0 +1,41 @@
+.sidenav {
+  min-height: 100vh;
+  position: fixed;
+}
+
+.matter {
+  margin-left: 25%;
+  margin-right: 5%;
+  margin-bottom: 3%;
+}
+
+.catter {
+  margin-top: 7%;
+  margin-left: 9%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+@media screen and (max-width: 991.98px) {
+  .matter {
+    margin-bottom: 2%;
+    margin-left: 0%;
+  }
+  .sidenav {
+    display: none;
+  }
+  .topbar {
+    margin-bottom: 6%;
+    margin-left: 0;
+  }
+  .catter {
+    /* margin-bottom:4%; */
+    margin-left: 0;
+  }
+}
+.topbar {
+  background-color: white;
+  position: fixed;
+}
